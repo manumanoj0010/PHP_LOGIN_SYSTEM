@@ -1,6 +1,6 @@
 ##  LOGIN-SYSTEM
 
-Its a basic login system made using php,html,css and mysql
+Its a basic login system made using **php,html,css and mysql**
 
 ![](https://raw.githubusercontent.com/manumanoj0010/PHP_LOGIN_SYSTEM/master/images/11.png)
 
@@ -8,18 +8,18 @@ Its a basic login system made using php,html,css and mysql
 
 
 ### Softwares required:
-xampp or wamp(for running php scripts) also known as local server
-Any text editor ex(notepad,notepad++, sublime Text(recommmended))
+**xampp** or **wamp**(for running php scripts) also known as local server
+Any text editor example (notepad,notepad++, **sublime Text**(recommmended))
 
 ### How to run it How to run it
 
 **Step 1** : Install the xampp software in your pc
 
-**Step 2** : Now copy the downloaded .php files .css and save in the following destination: *windows c:>xampp folder>htdocs>loginsystem* create a new folder name as* loginsystem* and save the files under it 
+**Step 2** : Now copy the downloaded .php files .css and save in the following destination: ***windows c:>xampp folder>htdocs>loginsystem*** . Create a new folder name as* loginsystem* and save the files under it 
 
-**Step 3** : Now open your xampp software and press start button of **Apache** and **MySql **
+**Step 3** : Now open your xampp software and press start button of **Apache** and **MySql**
 
-**Step 4** : Open your default browser and press localhost/loginsystem
+**Step 4** : Open your default browser and press **localhost/loginsystem**
 
 **Step 5** : Now your downloaded file will work but signup and signin will not work unless you connect your files to database to do this follow the steps
 
