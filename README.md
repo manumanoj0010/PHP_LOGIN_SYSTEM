@@ -11,11 +11,11 @@ Its a basic login system made using **php,html,css and mysql**
 **xampp** or **wamp**(for running php scripts) also known as local server
 Any text editor example (notepad,notepad++, **sublime Text**(recommmended))
 
-### How to run it How to run it
+### How to run it
 
 **Step 1** : Install the xampp software in your pc
 
-**Step 2** : Now copy the downloaded .php files .css and save in the following destination: ***windows c:>xampp folder>htdocs>loginsystem*** . Create a new folder name as* loginsystem* and save the files under it 
+**Step 2** : Now copy the downloaded .php files .css and save in the following destination: ***windows c:>xampp folder>htdocs>loginsystem*** . Create a new folder name as *loginsystem* and save the files under it 
 
 **Step 3** : Now open your xampp software and press start button of **Apache** and **MySql**
 
