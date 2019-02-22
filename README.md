@@ -1,12 +1,12 @@
-# login
+# login-system
 
-Its a simple basic login system using php,html,css and mysql
+Its a basic login system made using php,html,css and mysql
 
-Softwares required:
-1. xampp(for running php scripts) also known as local server
+# Softwares required:
+1. xampp or wamp(for running php scripts) also known as local server
 2. Any text editor ex(notepad,notepad++, sublime Text(recommmended))
 
-How to run it   
+# How to run it   
 
 Step 1 : Install the xampp software in your pc 
 Step 2 : Now copy the downloaded .php files .css and save in the following destination: in xampp folder>htdocs>loginsystem
