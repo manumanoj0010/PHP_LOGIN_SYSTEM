@@ -7,11 +7,11 @@ Its a basic login system made using php,html,css and mysql
 ![](https://raw.githubusercontent.com/manumanoj0010/PHP_LOGIN_SYSTEM/master/images/22.png)
 
 
-#### Softwares required:
+### Softwares required:
 xampp or wamp(for running php scripts) also known as local server
 Any text editor ex(notepad,notepad++, sublime Text(recommmended))
 
-#### How to run it
+### How to run it How to run it
 
 **Step 1** : Install the xampp software in your pc
 
@@ -27,4 +27,4 @@ Any text editor ex(notepad,notepad++, sublime Text(recommmended))
 
 **Step 7** : Create a newdatabase name same as provided in the server.php file in server.php its "**demo**" and create a newtable under the database in server.php its "**users**" you can change the names if you want but you should be aware of the basic php and sql knowledge before changing it.
 
-**Step 8**: Open your browser and type** localhost/loginsystem**
+**Step 8**: Open your browser and type **localhost/loginsystem**
